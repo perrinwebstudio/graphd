@@ -1,0 +1,2 @@
+class AssetValidationException(Exception):  # ??
+    pass

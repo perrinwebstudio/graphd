@@ -1,0 +1,112 @@
+{
+	"title": "Increased Support for More Offshore Drilling",
+	"file_name": "17258.png",
+	"type": "line",
+	"xAxis": {
+		"name": "Voter Date",
+		"type": "date",
+		"subtype": "month",
+		"grid": {
+			"data": [{
+					"position": 22,
+					"value": "2008-09-01"
+				},
+				{
+					"position": 81,
+					"value": "2009-04-01"
+				}
+			],
+			"value_per_pixel": 0.1286
+		},
+		"yAxis": {
+			"name": "Support",
+			"type": "number",
+			"grid": {
+				"data": [{
+						"position": 188,
+						"value": 27
+					},
+					{
+						"position": 91,
+						"value": 67
+					}
+				],
+				"value_per_pixel": 0.412
+			}
+		},
+		"series": {
+			"name": "Voter Opinion",
+			"data": [{
+					"name": "Favor",
+					"color": "#324f62",
+					"data": [{
+							"position": {
+								"x": 22,
+								"y": 91
+							},
+							"value": {
+								"x": "2008-09-01",
+								"y": 67
+							}
+						},
+						{
+							"position": {
+								"x": 81,
+								"y": 89
+							},
+							"value": {
+								"x": "2009-04-01",
+								"y": 68
+							}
+						},
+						{
+							"position": {
+								"x": 161,
+								"y": 101
+							},
+							"value": {
+								"x": "2010-02-01",
+								"y": 63
+							}
+						}
+					]
+				},
+				{
+					"name": "Oppose",
+					"color": "#83a7c0",
+					"data": [{
+							"position": {
+								"x": 22,
+								"y": 186
+							},
+							"value": {
+								"x": "2008-09-01",
+								"y": 28
+							}
+						},
+						{
+							"position": {
+								"x": 81,
+								"y": 188
+							},
+							"value": {
+								"x": "2009-04-01",
+								"y": 27
+							}
+						},
+						{
+							"position": {
+								"x": 161,
+								"y": 179
+							},
+							"value": {
+								"x": "2010-02-01",
+								"y": 31
+							}
+						}
+					]
+				}
+			]
+		}
+	}
+}

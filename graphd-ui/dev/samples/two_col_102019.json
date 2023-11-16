@@ -1,0 +1,89 @@
+{
+	"title": "Phishing Attacks by Payor",
+	"file_name": "two_col_102019.png",
+	"type": "bar",
+	"xAxis": {
+		"name": "Share of phishing attacks",
+		"type": "number",
+		"subtype": "percentage",
+		"grid": {
+			"data": [{
+					"position": 257,
+					"value": 5
+				},
+				{
+					"position": 181,
+					"value": 0
+				}
+			],
+			"value_per_pixel": 0.0657
+		},
+		"yAxis": {
+			"name": "Payor",
+			"type": "category",
+			"grid": {
+				"data": [{
+						"position": {
+							"min": 44,
+							"max": 73
+						},
+						"value": "Paypal"
+					},
+					{
+						"position": {
+							"min": 86,
+							"max": 115
+						},
+						"value": "Visa Inc."
+					},
+					{
+						"position": {
+							"min": 128,
+							"max": 157
+						},
+						"value": "American Express"
+					}
+				],
+				"value_per_pixel": null
+			}
+		},
+		"series": {
+			"name": "",
+			"data": [{
+				"name": "",
+				"color": "#2876dd",
+				"data": [{
+						"position": {
+							"x": 612,
+							"y": 58
+						},
+						"value": {
+							"x": 28.52,
+							"y": "Paypal"
+						}
+					},
+					{
+						"position": {
+							"x": 572,
+							"y": 100
+						},
+						"value": {
+							"x": 25.84,
+							"y": "Visa Inc."
+						}
+					},
+					{
+						"position": {
+							"x": 548,
+							"y": 143
+						},
+						"value": {
+							"x": 24.21,
+							"y": "American Express"
+						}
+					}
+				]
+			}]
+		}
+	}
+}
